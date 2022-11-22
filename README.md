@@ -4,8 +4,8 @@ This EFI is my personal configuration and is not 100% guaranteed to work with yo
 
 # Reference Specifications
 
-Motherboard: asRock H510-HVS
-LAN: Realtek Gigabit
-Processor: Intel Core i5 10400F 
-Graphics: PowerColor RedDragon AMD Radeon RX 570 4GB
+ - Motherboard: asRock H510-HVS
+ - LAN: Realtek Gigabit
+ - CPU: Intel Core i5 10400F 
+ - GPU: PowerColor RedDragon AMD Radeon RX 570 4GB
 
